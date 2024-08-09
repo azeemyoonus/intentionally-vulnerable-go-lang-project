@@ -52,6 +52,8 @@ require (
 	github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 // indirect
 	github.com/facebookgo/stats v0.0.0-20151006221625-1b76add642e4 // indirect
 	github.com/facebookgo/subset v0.0.0-20150612182917-8dac2c3c4870 // indirect
+	github.com/github.com/go-gitea/gitea v1.21.1
+	github.com/github.com/gophish/gophish v0.12.0
 	github.com/gliderlabs/ssh v0.2.2 // indirect
 	github.com/glycerine/go-unsnap-stream v0.0.0-20180323001048-9f0cb55181dd // indirect
 	github.com/glycerine/goconvey v0.0.0-20190315024820-982ee783a72e // indirect
@@ -169,6 +171,7 @@ require (
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.mongodb.org/mongo-driver v1.1.1 // indirect
 	go.opencensus.io v0.22.0 // indirect
+	golang.org/golang.org/x/crypto v0.17.0
 	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
 	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
 	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
