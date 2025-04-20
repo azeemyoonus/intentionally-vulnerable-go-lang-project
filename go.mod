@@ -81,7 +81,7 @@ require (
 	github.com/google/pprof v0.0.0-20190723021845-34ac40c74b70 // indirect
 	github.com/google/renameio v0.1.0 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20190430165422-3e4dfb77656c // indirect
-	github.com/gophish/gophish v0.1.2
+	github.com/gophish/gophish v0.2.0
 	github.com/gorilla/handlers v1.4.2 // indirect
 	github.com/gorilla/sessions v1.2.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.9.6 // indirect
@@ -189,7 +189,7 @@ require (
 	gopkg.in/src-d/go-git.v4 v4.11.0
 	gopkg.in/stretchr/testify.v1 v1.2.2 // indirect
 	gopkg.in/testfixtures.v2 v2.5.0 // indirect
-	gopkg.in/warnings.v0 v0.1.2
+	gopkg.in/warnings.v0 v0.2.0
 	mvdan.cc/xurls/v2 v2.1.0 // indirect
 	strk.kbt.io/projects/go/libravatar v0.0.0-20191008002943-06d1c002b251
 	xorm.io/builder v0.3.6 // indirect
