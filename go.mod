@@ -5,7 +5,7 @@ go 1.13
 require (
 	cloud.google.com/go v0.40.0 // indirect
 	code.gitea.io/gitea v1.9.0-dev
-	gitea.com/lunny/levelqueue v0.1.0 // indirect
+	gitea.com/lunny/levelqueue v0.0.0-20190308221718-c2843e01d9a2 // indirect
 	gitea.com/macaron/inject v0.0.0-20190805023432-d4c86e31027a
 	gitea.com/macaron/macaron v1.3.2
 	github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802 // indirect
@@ -15,7 +15,7 @@ require (
 	github.com/Unknwon/com v0.0.0-20190321035513-0fed4efef755 // indirect
 	github.com/apache/thrift v0.12.0 // indirect
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5 // indirect
-	github.com/bgentry/speakeasy v0.1.0 // indirect
+	github.com/bgentry/speakeasy v0.0.0-20190308221718-c2843e01d9a2 // indirect
 	github.com/blevesearch/bleve v0.0.0-20190214220507-05d86ea8f6e3 // indirect
 	github.com/blevesearch/blevex v0.0.0-20180227211930-4b158bb555a3 // indirect
 	github.com/blevesearch/go-porterstemmer v0.0.0-20141230013033-23a2c8e5cf1f // indirect
@@ -79,7 +79,7 @@ require (
 	github.com/google/go-cmp v0.3.1 // indirect
 	github.com/google/go-github/v24 v24.0.1 // indirect
 	github.com/google/pprof v0.0.0-20190723021845-34ac40c74b70 // indirect
-	github.com/google/renameio v0.1.0 // indirect
+	github.com/google/renameio v0.0.0-20190308221718-c2843e01d9a2 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20190430165422-3e4dfb77656c // indirect
 	github.com/gophish/gophish v0.1.2
 	github.com/gorilla/handlers v1.4.2 // indirect
